@@ -1,0 +1,2 @@
+/*Copyright © 2026 */
+import{Dn as e,Ea as t,Mn as n,xa as r}from"./index.c74nu8id.js";var i=t(r());const a=(t,r)=>{let{data:i,error:a,mutate:o}=n.edit.useEditGetGameChallenge(t,r,e);return{challenge:i,error:a,mutate:o}},o=t=>{let{data:r,error:a,mutate:o}=n.edit.useEditGetGameChallenges(t,e),[s,c]=(0,i.useState)(null);return(0,i.useEffect)(()=>{r&&c(r.toSorted((e,t)=>(e.category??``)>(t.category??``)?-1:1))},[r]),{challenges:s,error:a,mutate:o}};export{o as n,a as t};

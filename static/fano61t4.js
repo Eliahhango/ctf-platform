@@ -1,0 +1,2 @@
+/*Copyright © 2026 */
+import{Ea as e,Jr as t,Oi as n,pa as r,xa as i,xi as a}from"./index.c74nu8id.js";var o=e(r(),1);i();var s=a((e,r)=>(0,o.jsx)(t,{component:`input`,ref:r,...n(`TextInput`,null,e),__staticSelector:`TextInput`}));s.classes=t.classes,s.displayName=`@mantine/core/TextInput`;export{s as t};
