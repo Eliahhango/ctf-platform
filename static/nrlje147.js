@@ -1,0 +1,2 @@
+/*Copyright © 2026 */
+import{Ea as e,Gr as t,Or as n,pa as r}from"./index.c74nu8id.js";var i=e(r());const a=(e,r,a)=>(0,i.jsxs)(n,{gap:1,children:[(0,i.jsx)(t,{size:`md`,fw:500,children:e}),(0,i.jsx)(t,{size:`xs`,c:`dimmed`,children:r}),a&&(0,i.jsx)(t,{size:`xs`,c:`alert`,fw:500,children:a})]});export{a as t};

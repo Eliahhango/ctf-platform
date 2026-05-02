@@ -1,0 +1,12 @@
+{
+  "name": "ctf-platform-rebuild",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "dev:api": "npm --workspace @ctf/api run dev",
+    "dev:web": "npm --workspace @ctf/web run dev"
+  }
+}

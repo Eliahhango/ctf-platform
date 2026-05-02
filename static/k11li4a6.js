@@ -1,0 +1,2 @@
+/*Copyright © 2026 */
+import{Ea as e,xa as t}from"./index.c74nu8id.js";var n=e(t());function r(){let[e,t]=(0,n.useState)(),[r,i]=(0,n.useState)(0),[a,o]=(0,n.useState)(0);return{data:e,total:r,length:a,setData:e=>{t(e.data),i(e.total??0),o(e.length)},updateData:e=>{t(e),o(e.length)}}}export{r as t};

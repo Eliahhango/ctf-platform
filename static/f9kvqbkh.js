@@ -1,0 +1,2 @@
+/*Copyright © 2026 */
+import{n as e,t}from"./f7fksf2y.js";import{Ea as n,Lr as r,Or as i,pa as a,rr as o}from"./index.c74nu8id.js";var s=n(a());const c=({onSubmit:n,children:a})=>{let c=o();return(0,s.jsx)(r,{h:`100vh`,children:(0,s.jsxs)(i,{align:`center`,justify:`center`,children:[(0,s.jsx)(e,{onClick:()=>c(`/`)}),(0,s.jsx)(`form`,{className:t.accountForm,onSubmit:n,children:(0,s.jsx)(i,{gap:`xs`,align:`center`,justify:`center`,children:a})})]})})};export{c as t};

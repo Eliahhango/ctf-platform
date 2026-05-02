@@ -1,0 +1,15 @@
+# Node
+node_modules/
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Build
+dist/
+coverage/
+
+# OS
+.DS_Store
+Thumbs.db
